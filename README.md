@@ -7,7 +7,7 @@ This repository contains my learning materials, notes, and code implementations 
 ## Certificate
 [![My Certificate](https://github.com/quang2719/Stanford-Algorithm-Specialization---Part-1/blob/main/Course%201/Certificate/certificate_img.png?raw=true)](https://github.com/quang2719/Stanford-Algorithm-Specialization---Part-1/blob/main/Course%201/Certificate/certificate_img.png?raw=true)
 ## 🎯 Course Overview
-Link to course:<br>
+Link to course:<br><br>
   [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/algorithms?)
 
 
@@ -31,6 +31,7 @@ Link to course:<br>
 * **Course Assignment Implementations:** Delve into my code for tackling the course assignments, showcasing practical applications of the algorithms.
 
 ## 🤔 Let's Connect!
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nguyen-2003-ptit/)
 <br><br>
 Happy coding!
