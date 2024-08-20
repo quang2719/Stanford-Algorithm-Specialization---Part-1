@@ -1,6 +1,8 @@
 # Stanford Algorithm Specialization - Part 1: Divide & Conquer, Sorting, & Randomized Algorithms 
-
-[![Stanford Online Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/21/9a0294e2bf773901afbfcb5ef47d97/Stanford_Coursera-200x48_RedText_BG.png?auto=format%2Ccompress&dpr=2&h=45)](https://online.stanford.edu/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+[![Stanford University](https://img.shields.io/badge/Stanford_University-red?style=for-the-badge&logo=Stanford_University&logoColor=white)](https://www.stanford.edu/)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-blue?style=for-the-badge&logo=DeepLearning.AI&logoColor=white)](https://deeplearning.ai/)
+<br>[![Stanford Online Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/21/9a0294e2bf773901afbfcb5ef47d97/Stanford_Coursera-200x48_RedText_BG.png?auto=format%2Ccompress&dpr=2&h=45)](https://online.stanford.edu/)
 
 This repository contains my learning materials, notes, and code implementations from the first course (1/4) of the **Stanford Algorithm Specialization** offered on Coursera. 
 
